@@ -1,0 +1,68 @@
+body {
+    min-height: 90vh;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHmTB2C2a3fH_9zGi_Hw3b1Kbc2HOwyGf1Q&usqp=CAU") ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #fdfdfd;
+  }
+  .container {
+    width: 60%;
+    height: 450px;
+    background-color: #433594;
+    border: 1px solid transparent;
+    opacity: 0.9;
+    border-radius: 7px;
+  }
+  .totale {
+    border-bottom: 1px solid #d2d4d6;
+  }
+  .totale p {
+    margin-left: 30px;
+    font-size: 18px;
+    color: #fcfcfc;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+  }
+  .fas {
+    color: #aab8c2 ;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-top: 15px;
+    border-bottom: 1px solid #d2d4d6;
+  }
+  
+  .lastrow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-top: 15px;
+  }
+  span {
+    color: #ffffff;
+  }
+  
+  .price {
+    color: #ffffff;
+  }
+  
+  .fa-heart {
+    color: rgb(255, 255, 255);
+  }
+  
+  .red {
+    color: red;
+  }
+  
